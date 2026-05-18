@@ -137,29 +137,46 @@ Goal      : SOC Analyst L1 -> L2 -> Security Architect
 ### 🛡️ Cybersecurity Operations
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
+**[Active Directory Penetration Test](https://github.com/avikjana/Active-Directory-Penetration-Test)**
+<br/>
+Full-scope Active Directory penetration test lab covering reconnaissance, initial access, enumeration, privilege escalation, lateral movement, persistence, credential dumping, and defense evasion — with structured reporting.
+<br/>
+<kbd>Active Directory</kbd>&nbsp; <kbd>BloodHound</kbd>&nbsp; <kbd>Impacket</kbd>&nbsp; <kbd>Privilege Escalation</kbd>&nbsp; <kbd>Red Team</kbd>
+<br/><br/>
+
 **[SOC Phishing Incident Analysis](https://github.com/avikjana/soc-phishing-incident-analysis)**
 <br/>
 Phishing email investigation demonstrating SOC-level analysis, IOC identification, risk assessment, and incident response documentation.
+<br/>
+<kbd>Phishing Analysis</kbd>&nbsp; <kbd>Email Header Analysis</kbd>&nbsp; <kbd>OSINT</kbd>&nbsp; <kbd>Incident Response</kbd>
 <br/><br/>
 
 **[Threat Intel: VirusTotal Domain Analysis](https://github.com/avikjana/Threat-Intel-VirusTotal-Phishing-Domain-Analysis)**
 <br/>
 Threat Intelligence investigation of a suspicious banking-related domain using VirusTotal and OSINT methodologies.
+<br/>
+<kbd>Threat Intelligence</kbd>&nbsp; <kbd>VirusTotal</kbd>&nbsp; <kbd>OSINT</kbd>&nbsp; <kbd>Malware Analysis</kbd>
 <br/><br/>
 
 **[Enterprise SOC Lab](https://github.com/avikjana/Enterprise-SOC-Lab)**
 <br/>
 Hands-on deployment and configuration of an Enterprise Security Operations Center environment.
+<br/>
+<kbd>Elastic SIEM</kbd>&nbsp; <kbd>Splunk</kbd>&nbsp; <kbd>Wazuh</kbd>&nbsp; <kbd>Network Defense</kbd>
 <br/><br/>
 
 **[ICMP Traffic Investigation](https://github.com/avikjana/ICMP-Traffic-Investigation-in-a-Simulated-SOC-Environment)**
 <br/>
 Deep-dive network packet analysis investigating anomalous ICMP traffic in a simulated SOC environment.
+<br/>
+<kbd>Packet Analysis</kbd>&nbsp; <kbd>Wireshark</kbd>&nbsp; <kbd>Network Security</kbd>
 <br/><br/>
 
 **[Vulnerability Assessment Report](https://github.com/avikjana/Vulnerability-Assesement-Report)**
 <br/>
 Comprehensive vulnerability scanning and assessment reporting for security auditing.
+<br/>
+<kbd>Nmap</kbd>&nbsp; <kbd>Nessus</kbd>&nbsp; <kbd>Vulnerability Scanning</kbd>
 
 </td>
 <td width="50%" valign="top">
