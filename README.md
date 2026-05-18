@@ -32,27 +32,64 @@ My work bridges the gap between software engineering and security. On the develo
 <td valign="top" width="50%" align="center">
 
 <br/>
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="50px"/><br/>
-<b>Full-Stack Development</b><br/><br/>
+<b>💻 Full-Stack Development</b><br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br/>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td valign="top" width="50%" align="center">
 
 <br/>
-<img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="50px"/><br/>
-<b>Cybersecurity & Threat Intel</b><br/><br/>
+<b>🛡️ Blue Team — SIEM & Detection</b><br/><br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br/>
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)<br/>
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br/>
-![SOC](https://img.shields.io/badge/SOC_Analysis-FF6C37?style=for-the-badge)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=flat-square)
+![MS Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-0078D4?style=flat-square)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square)
+![SOAR](https://img.shields.io/badge/SOAR-0078D4?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+<br/>
+<b>🔍 Threat Intelligence & IR</b><br/><br/>
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-EF3B2D?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-0078D4?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-FF3333?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=flat-square)
+![NIST 800-61](https://img.shields.io/badge/NIST_800--61-003366?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B4B4B?style=flat-square)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+<br/>
+<b>⚔️ Offensive Security</b><br/><br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-005571?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF3333?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=activedirectory&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-394EFF?style=flat-square)
 
 </td>
 </tr>
