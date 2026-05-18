@@ -13,12 +13,6 @@
 
 <br/><br/>
 
-<a href="YOUR_CV_LINK_HERE">
-  <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20MY%20CV-FF0000?style=for-the-badge&logoColor=white" alt="Download CV" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=avikjana&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -303,6 +297,12 @@ A full-stack job board application designed to connect job seekers with opportun
 <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<br/><br/>
+
+<a href="YOUR_CV_LINK_HERE">
+  <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20MY%20CV-FF0000?style=for-the-badge&logoColor=white" alt="Download CV" />
+</a>
 
 <br/><br/>
 
