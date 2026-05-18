@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://avikjana-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/avikjana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/avik-jana-360b9b239"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:avikjana212@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/avikjana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
@@ -300,7 +300,7 @@ A full-stack job board application designed to connect job seekers with opportun
 
 <br/><br/>
 
-<a href="YOUR_CV_LINK_HERE">
+<a href="https://drive.google.com/file/d/1DoklS2bRKOJCerzCl7CxUi81IRH_t_p-/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20MY%20CV-FF0000?style=for-the-badge&logoColor=white" alt="Download CV" />
 </a>
 
