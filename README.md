@@ -31,8 +31,15 @@ Hello! I'm **Avik Jana**, a dedicated **Cybersecurity Analyst & Threat Hunter** 
 
 My core expertise lies in investigating threats, analyzing network traffic, and conducting SOC-level incident response. I leverage my software engineering background to deeply understand application vulnerabilities and automate critical security workflows. 
 
-> *I believe that understanding exactly how systems are built provides the ultimate advantage in defending them against advanced adversaries.*
+```text
+Location  : Kolkata, West Bengal, India
+Degree    : B.Tech CSE - Graduating 2026
+Focus     : SOC Analyst · Threat Hunting · Incident Response
+Learning  : KQL · SC-200 · Ethical Hacking · eJPT
+Goal      : SOC Analyst L1 -> L2 -> Security Architect
+```
 
+> *"The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him."* — Sun Tzu
 </td>
 <td width="35%" align="center">
 <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="90%" style="border-radius: 10px;" />
