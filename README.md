@@ -13,6 +13,12 @@
 
 <br/><br/>
 
+<a href="YOUR_CV_LINK_HERE">
+  <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20MY%20CV-FF0000?style=for-the-badge&logoColor=white" alt="Download CV" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=avikjana&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
