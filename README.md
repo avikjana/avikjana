@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFB800&height=180&section=header&text=Avik%20Jana&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cybersecurity%20Analyst&descSize=18&descColor=FFD700&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFB800&height=180&section=header&text=Avik%20Jana&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Threat%20Hunter&descSize=18&descColor=FFD700&descAlignY=65" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development+%7C+Cybersecurity;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+JavaScript;Threat+Intelligence+%C2%B7+SOC+Analysis+%C2%B7+Incident+Response;Building+secure+applications+and+defending+them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=650&lines=Cybersecurity+Operations+%7C+Threat+Intelligence;SOC+Analysis+%C2%B7+Incident+Response+%C2%B7+Blue+Team;Python+%C2%B7+KQL+%C2%B7+SIEM+%C2%B7+Network+Defense;Defending+systems+with+an+engineering+mindset" />
 
 <br/>
 
@@ -27,11 +27,11 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Avik Jana**, a passionate technologist specializing in **Full-Stack Web Development** and **Cybersecurity Operations**.
+Hello! I'm **Avik Jana**, a dedicated **Cybersecurity Analyst & Threat Hunter** with a strong foundation in Full-Stack Engineering. 
 
-My work bridges the gap between software engineering and security. On the development side, I build scalable, full-stack applications using the MERN stack (React, Node.js, MongoDB). On the security side, I actively investigate threats, analyze network traffic, and conduct SOC-level incident response. 
+My core expertise lies in investigating threats, analyzing network traffic, and conducting SOC-level incident response. I leverage my software engineering background to deeply understand application vulnerabilities and automate critical security workflows. 
 
-> *I believe that understanding how to build systems is the best way to learn how to defend them.*
+> *I believe that understanding exactly how systems are built provides the ultimate advantage in defending them against advanced adversaries.*
 
 </td>
 <td width="35%" align="center">
@@ -46,23 +46,6 @@ My work bridges the gap between software engineering and security. On the develo
 
 <table width="100%" align="center">
 <tr>
-<td valign="top" width="50%" align="center">
-
-<br/>
-<b>💻 Full-Stack Development</b>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
 <td valign="top" width="50%" align="center">
 
 <br/>
@@ -82,8 +65,6 @@ My work bridges the gap between software engineering and security. On the develo
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%" align="center">
 
 <br/>
@@ -101,6 +82,8 @@ My work bridges the gap between software engineering and security. On the develo
 ![Volatility](https://img.shields.io/badge/Volatility-4B4B4B?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%" align="center">
 
 <br/>
@@ -117,6 +100,22 @@ My work bridges the gap between software engineering and security. On the develo
 ![Impacket](https://img.shields.io/badge/Impacket-394EFF?style=flat-square)
 
 </td>
+<td valign="top" width="50%" align="center">
+
+<br/>
+<b>⚙️ Secure Engineering & Scripting</b>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
 </tr>
 </table>
 
@@ -128,7 +127,7 @@ My work bridges the gap between software engineering and security. On the develo
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity
+### 🛡️ Cybersecurity Operations
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
 **[SOC Phishing Incident Analysis](https://github.com/avikjana/soc-phishing-incident-analysis)**
@@ -158,7 +157,7 @@ Comprehensive vulnerability scanning and assessment reporting for security audit
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Development
+### 💻 Security-Driven Development
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
 **[Ghar Nishchit](https://github.com/avikjana/Ghar_Nishchit)**
