@@ -282,4 +282,24 @@ A full-stack job board application designed to connect job seekers with opportun
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
+
+### 📬 Connect With Me
+
+<div align="center">
+
+<br/>
+
+<a href="https://portfolio-avikjanas-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<br/><br/>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:000000&height=120&section=footer" />
