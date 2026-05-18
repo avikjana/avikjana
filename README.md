@@ -167,6 +167,32 @@ A full-stack job board application designed to connect job seekers with opportun
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+### 🏅 Certifications
+
+| Certification | Issuer | Status |
+| :--- | :--- | :--- |
+| Junior Cybersecurity Analyst | Cisco | ✅ Earned |
+| Google Cybersecurity Professional Certificate | Google | ✅ Earned |
+| Network Defense | Cisco | ✅ Earned |
+| Endpoint Security | Cisco | ✅ Earned |
+| Wireshark Packet Analysis | Udemy | ✅ Earned |
+| CompTIA Security+ | CompTIA | 🔄 In Progress |
+| Security Operations Analyst SC-200 | Microsoft | 🔄 In Progress |
+| eJPT — Junior Penetration Tester | eLearnSecurity | ⏳ Upcoming |
+
+<br/>
+
+### 🗺️ Career Roadmap
+
+| Stage | Target | Status |
+| :--- | :--- | :--- |
+| 2026 — Now | CompTIA Security+ · SC-200 · eJPT · Full SOC Home Lab | 🔄 Active |
+| Near Term | SOC Analyst L1 — Land first role | 🎯 Seeking |
+| Mid Term | SOC Analyst L2 — Senior analyst & detection lead | 📅 Planned |
+| Long Term | Security Architect — Enterprise security design | 🏗️ Vision |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ### 📊 GitHub Statistics
 
 <div align="center">
