@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=180&section=header&text=Avik%20Jana&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Analyst&descSize=15&descColor=FFD700&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFB800&height=180&section=header&text=Avik%20Jana&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cybersecurity%20Analyst&descSize=18&descColor=FFD700&descAlignY=65" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development+%7C+Cybersecurity;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+JavaScript;Threat+Intelligence+%C2%B7+SOC+Analysis+%C2%B7+Incident+Response;Building+secure+applications+and+defending+them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development+%7C+Cybersecurity;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+JavaScript;Threat+Intelligence+%C2%B7+SOC+Analysis+%C2%B7+Incident+Response;Building+secure+applications+and+defending+them" />
 
 <br/>
 
@@ -19,15 +19,28 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="65%">
 
 ### 👨‍💻 About Me
 
 Hello! I'm **Avik Jana**, a passionate technologist specializing in **Full-Stack Web Development** and **Cybersecurity Operations**.
 
-My work bridges the gap between software engineering and security. On the development side, I build scalable, full-stack applications using the MERN stack (React, Node.js, MongoDB). On the security side, I actively investigate threats, analyze network traffic, and conduct SOC-level incident response. I believe that understanding how to build systems is the best way to learn how to defend them.
+My work bridges the gap between software engineering and security. On the development side, I build scalable, full-stack applications using the MERN stack (React, Node.js, MongoDB). On the security side, I actively investigate threats, analyze network traffic, and conduct SOC-level incident response. 
 
-<br/>
+> *I believe that understanding how to build systems is the best way to learn how to defend them.*
+
+</td>
+<td width="35%" align="center">
+<img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="90%" style="border-radius: 10px;" />
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
 
 ### 🛠️ Technical Arsenal
 
@@ -36,7 +49,9 @@ My work bridges the gap between software engineering and security. On the develo
 <td valign="top" width="50%" align="center">
 
 <br/>
-<b>💻 Full-Stack Development</b><br/><br/>
+<b>💻 Full-Stack Development</b>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -51,7 +66,9 @@ My work bridges the gap between software engineering and security. On the develo
 <td valign="top" width="50%" align="center">
 
 <br/>
-<b>🛡️ Blue Team — SIEM & Detection</b><br/><br/>
+<b>🛡️ Blue Team — SIEM & Detection</b>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
 
 ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -70,7 +87,9 @@ My work bridges the gap between software engineering and security. On the develo
 <td valign="top" width="50%" align="center">
 
 <br/>
-<b>🔍 Threat Intelligence & IR</b><br/><br/>
+<b>🔍 Threat Intelligence & IR</b>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-EF3B2D?style=flat-square)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
@@ -85,7 +104,9 @@ My work bridges the gap between software engineering and security. On the develo
 <td valign="top" width="50%" align="center">
 
 <br/>
-<b>⚔️ Offensive Security</b><br/><br/>
+<b>⚔️ Offensive Security</b>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/><br/>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-005571?style=flat-square&logo=metasploit&logoColor=white)
@@ -99,7 +120,7 @@ My work bridges the gap between software engineering and security. On the develo
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
 
 ### 🌟 Featured Projects
 
@@ -107,8 +128,8 @@ My work bridges the gap between software engineering and security. On the develo
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity Projects
-<hr/>
+### 🛡️ Cybersecurity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
 **[SOC Phishing Incident Analysis](https://github.com/avikjana/soc-phishing-incident-analysis)**
 <br/>
@@ -138,7 +159,7 @@ Comprehensive vulnerability scanning and assessment reporting for security audit
 <td width="50%" valign="top">
 
 ### 💻 Full-Stack Development
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
 **[Ghar Nishchit](https://github.com/avikjana/Ghar_Nishchit)**
 <br/>
@@ -169,33 +190,48 @@ A full-stack job board application designed to connect job seekers with opportun
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
 
-### 🏅 Certifications
+### 🏅 Certifications & Roadmap
 
-| Certification | Issuer | Status |
-| :--- | :--- | :--- |
-| Junior Cybersecurity Analyst | Cisco | ✅ Earned |
-| Google Cybersecurity Professional Certificate | Google | ✅ Earned |
-| Network Defense | Cisco | ✅ Earned |
-| Endpoint Security | Cisco | ✅ Earned |
-| Wireshark Packet Analysis | Udemy | ✅ Earned |
-| CompTIA Security+ | CompTIA | 🔄 In Progress |
-| Security Operations Analyst SC-200 | Microsoft | 🔄 In Progress |
-| eJPT — Junior Penetration Tester | eLearnSecurity | ⏳ Upcoming |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+**Certifications**
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
-### 🗺️ Career Roadmap
+| Certification | Status |
+| :--- | :--- |
+| **Junior Cybersecurity Analyst** (Cisco) | ✅ Earned |
+| **Google Cybersecurity Professional** | ✅ Earned |
+| **Network Defense** (Cisco) | ✅ Earned |
+| **Endpoint Security** (Cisco) | ✅ Earned |
+| **Wireshark Packet Analysis** (Udemy) | ✅ Earned |
+| **CompTIA Security+** | 🔄 In Progress |
+| **SC-200** (Microsoft) | 🔄 In Progress |
+| **eJPT** (eLearnSecurity) | ⏳ Upcoming |
+
+</td>
+<td width="50%" valign="top">
+
+**Career Roadmap**
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=1" width="100%"/>
 
 | Stage | Target | Status |
 | :--- | :--- | :--- |
-| 2026 — Now | CompTIA Security+ · SC-200 · eJPT · Full SOC Home Lab | 🔄 Active |
-| Near Term | SOC Analyst L1 — Land first role | 🎯 Seeking |
-| Mid Term | SOC Analyst L2 — Senior analyst & detection lead | 📅 Planned |
-| Long Term | Security Architect — Enterprise security design | 🏗️ Vision |
+| **2026 — Now** | CompTIA Sec+ · SC-200 · eJPT | 🔄 Active |
+| **Near Term** | SOC Analyst L1 (First role) | 🎯 Seeking |
+| **Mid Term** | SOC Analyst L2 (Senior) | 📅 Planned |
+| **Long Term** | Security Architect | 🏗️ Vision |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=2" width="100%"/>
 
 ### 📊 GitHub Statistics
 
